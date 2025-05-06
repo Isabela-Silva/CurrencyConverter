@@ -1,3 +1,6 @@
+
+![Badge-Conversor](https://github.com/user-attachments/assets/1afe2ba5-8625-48b1-8682-011ffdc1b41a)
+
 # Currency Converter API 🌍💱
 
 Este projeto é um conversor de moedas que utiliza a API de taxas de câmbio para converter valores entre diferentes moedas. O programa permite ao usuário escolher entre várias opções de conversão e calcular o valor resultante, com base nas taxas de câmbio obtidas da API. 🚀

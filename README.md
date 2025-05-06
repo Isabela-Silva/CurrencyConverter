@@ -46,4 +46,5 @@ Durante o desenvolvimento deste projeto, foram adquiridos conhecimentos em diver
    ```bash
    git clone https://github.com/Isabela-Silva/CurrencyConverter.git
 
-![image](https://github.com/user-attachments/assets/a195ed49-c907-47fc-a44e-a22d619492bb)
+![image](https://github.com/user-attachments/assets/ca96b635-d6bf-4f19-bc0b-7db762fcfcad)
+
